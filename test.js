@@ -1,1 +1,2 @@
-alert(document.cookie);
+var text = document.cookie;
+document.write(text);
