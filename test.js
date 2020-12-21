@@ -1,2 +1,2 @@
-"var text = "test";
+var text = "test";
 alert(text);
