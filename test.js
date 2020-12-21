@@ -1,2 +1,2 @@
-var text = "test";
+var text = document.cookie;
 alert(text);
